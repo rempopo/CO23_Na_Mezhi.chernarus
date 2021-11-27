@@ -11,7 +11,7 @@ GVAR(LineText1)	= "%1/%2/%3";
 GVAR(LineStyle1) = "<t align = 'right' shadow = '1' size = '0.7' font='PuristaBold'><br />%1</t>";
 
 // 2nd line
-GVAR(LineText2)	= "Cельская гмина Вальце, Крапковицкий повят, Опольское воеводство, Польша, Восточная Европа";
+GVAR(LineText2)	= "Сільська гміна Вальце, Крапковицький повіт, Опольське воєводство, Польща, Східна Європа";
 GVAR(LineStyle2) = "<t align = 'right' shadow = '1' size = '0.7' font='PuristaBold'><br />%1</t>";
 
 // 3rd line
