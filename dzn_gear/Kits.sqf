@@ -54,7 +54,7 @@
 
 kit_ukr_mech_r = [
 	["<EQUIPEMENT >>  ","rhs_uniform_afghanka_ttsko_2","rhs_6b2_lifchik","CUP_O_RUS_Patrol_bag_Green","rhs_6b7_1m_olive",""],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_AK74M_railed_camo","CUP_30Rnd_545x39_AK74M_camo_M",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_AKS74_top_rail","CUP_30Rnd_545x39_AK74M_camo_M",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
 	["<LAUNCHER WEAPON >>  ","rhs_weap_rpg18","rhs_rpg18_mag",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -67,7 +67,7 @@ kit_ukr_mech_r = [
 
 kit_ukr_mech_gr = [
 	["<EQUIPEMENT >>  ","rhs_uniform_afghanka_ttsko_2","rhs_6b2_lifchik","CUP_O_RUS_Patrol_bag_Green","rhs_6b7_1m_olive",""],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_AK74M_GL_railed_camo","rhs_30Rnd_545x39_7N10_2mag_camo_AK",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_AKS74_GL_top_rail","rhs_30Rnd_545x39_7N10_2mag_camo_AK",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -93,20 +93,19 @@ kit_ukr_mech_ar = [
 
 kit_ukr_mech_sl = [
 	["<EQUIPEMENT >>  ","rhs_uniform_afghanka_ttsko_2","rhs_6b2_lifchik","tf_rt1523g_green","rhs_6b7_1m_olive","G_Tactical_Black"],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_AK74M_railed_camo","CUP_30Rnd_545x39_AK74M_camo_M",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_AKS74_top_rail","CUP_30Rnd_545x39_AK74M_camo_M",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
-	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",10],["rhs_mag_rgo",2]]],
-	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",10],["CUP_HandGrenade_RGD5",2]]]
-	,["<IDENTITY >>", ["usm_WhiteHead_01","WhiteHead_01","WhiteHead_02","WhiteHead_18","WhiteHead_04","GreekHead_A3_12","LivonianHead_9","WhiteHead_30","WhiteHead_13","LivonianHead_1","cwr3_face_stoyan","WhiteHead_31","cwr3_face_troska"], ["cup_d_male01_ru
-","cup_d_male02_ru","cup_d_male03_ru","cup_d_male04_ru","cup_d_male05_ru"], ""]
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["rhs_mag_rgo",2]]],
+	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_RGD5",2]]]
 ];
+
 
 kit_ukr_mech_ftl = [
 	["<EQUIPEMENT >>  ","rhs_uniform_afghanka_ttsko_2","rhs_6b2_lifchik","CUP_O_RUS_Patrol_bag_Green","rhs_6b7_1m_bala2_olive",""],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_AK74M_GL_railed_camo","rhs_30Rnd_545x39_7N10_2mag_camo_AK",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_AKS74_GL_top_rail","rhs_30Rnd_545x39_7N10_2mag_camo_AK",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -144,68 +143,68 @@ kit_belr_guard_tankman = [
 
 kit_ger_fjb_12_r = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_Ger_Beret_KSK_Red",""],
-	["<PRIMARY WEAPON >>  ","hlc_rifle_g3ka4","hlc_20rnd_762x51_b_G3",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_G36K_KSK","CUP_30Rnd_556x45_G36",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
 	["<LAUNCHER WEAPON >>  ","CUP_launch_HCPF3_Loaded","CUP_PTFHC_M",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["hlc_20rnd_762x51_MDim_G3",6],["HANDGUN MAG",1]]],
-	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["hlc_20rnd_762x51_MDim_G3",5],["CUP_HandGrenade_M67",3]]]
+	["<VEST ITEMS >> ",[["PRIMARY MAG",5],["HANDGUN MAG",1]]],
+	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["PRIMARY MAG",8],["CUP_HandGrenade_M67",3]]]
 ];
 
 kit_ger_fjb_12_gr = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_Ger_Beret_KSK_Red",""],
-	["<PRIMARY WEAPON >>  ","HLC_Rifle_g3ka4_GL","hlc_20rnd_762x51_b_G3",["","","CUP_optic_ACOG_TA01NSN_RMR_Black_PIP",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_G36K_RIS_AG36","1Rnd_HE_Grenade_shell",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["CUP_20Rnd_762x51_G3",7]]],
-	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["1Rnd_HE_Grenade_shell",15]]]
+	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["PRIMARY MAG",14],["CUP_30Rnd_556x45_G36",8]]]
 ];
 
 kit_ger_fjb_12_mm = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_PMC_Beanie_Headphones_Khaki",""],
-	["<PRIMARY WEAPON >>  ","hlc_rifle_g3ka4","ACE_10Rnd_762x51_Mag_SD",["rhsusf_acc_aac_762sdn6_silencer","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_HK417_20","ACE_10Rnd_762x51_Mag_SD",["rhsusf_acc_aac_762sdn6_silencer","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",16]]],
+	["<VEST ITEMS >> ",[["PRIMARY MAG",15]]],
 	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["1Rnd_HE_Grenade_shell",15]]]
 ];
 
-kit_ger_fjb_12_mg = [
-	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_Ger_Cap_Grn2",""],
-	["<PRIMARY WEAPON >>  ","hlc_lmg_MG3KWS_b","hlc_50Rnd_762x51_T_MG3",["","","CUP_optic_ACOG_TA01NSN_RMR_Black_PIP",""]],
+kit_ger_fjb_12_ar = [
+	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_Ger_Beret_KSK_Red","rhsusf_shemagh_grn"],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_MG36","CUP_100Rnd_TE1_Yellow_Tracer_556x45_BetaCMag",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",3]]],
-	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",5],["rhsusf_mag_40Rnd_46x30_JHP",4]]]
+	["<VEST ITEMS >> ",[["HANDGUN MAG",1]]],
+	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",10]]]
 ];
 
 kit_ger_fjb_12_sl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","tf_mr3000_bwmod","CUP_H_Ger_Beret_KSK_Red","rhs_googles_black"],
-	["<PRIMARY WEAPON >>  ","hlc_rifle_g3ka4","hlc_20rnd_762x51_b_G3",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_G36K_KSK","CUP_30Rnd_556x45_G36",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["hlc_20rnd_762x51_MDim_G3",6],["HANDGUN MAG",1]]],
-	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["hlc_20rnd_762x51_MDim_G3",5],["CUP_HandGrenade_M67",3]]]
+	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["PRIMARY MAG",11]]],
+	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["SmokeShellBlue",11],["PRIMARY MAG",5]]]
 ];
 
 kit_ger_fjb_12_ftl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Medic_Flecktarn","CUP_H_Ger_Beret_KSK_Red","rhsusf_shemagh_grn"],
-	["<PRIMARY WEAPON >>  ","hlc_rifle_g3ka4","hlc_20rnd_762x51_MDim_G3",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_G36K_KSK","CUP_30Rnd_556x45_G36",["","","CUP_optic_ACOG_TA01NSN_RMR_Black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["PRIMARY MAG",4],["HANDGUN MAG",1],["hlc_20rnd_762x51_b_G3",1]]],
-	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["PRIMARY MAG",5],["CUP_HandGrenade_M67",3],["SmokeShellBlue",11]]]
+	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["PRIMARY MAG",11]]],
+	["<BACKPACK ITEMS >> ",[["CUP_40Rnd_46x30_MP7",5],["CUP_HandGrenade_M67",3],["SmokeShellBlue",11],["PRIMARY MAG",5]]]
 ];
 
 kit_ger_fjb_12_atgm_crew = [
@@ -232,15 +231,15 @@ kit_ger_crewman = [
 
 //Fernspaher
 
-kit_ger_fernspaher_mm = [
+kit_ger_fernspaher_ftl = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Pack_Flecktarn","CUP_H_Ger_Boonie_Flecktarn","CUP_G_Scarf_Face_White"],
-	["<PRIMARY WEAPON >>  ","hlc_rifle_psg1","hlc_20rnd_762x51_b_G3",["","","","CUP_bipod_VLTOR_Modpod_black"]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_HK416_M203_Black","1Rnd_HE_Grenade_shell",["CUP_muzzle_snds_SCAR_L","","optic_Yorris",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["CUP_20Rnd_46x30_MP7",5],["hlc_20rnd_762x51_S_G3",4]]],
-	["<BACKPACK ITEMS >> ",[["hlc_20rnd_762x51_S_G3",10]]]
+	["<VEST ITEMS >> ",[["rhs_mag_30Rnd_556x45_M855_PMAG",10],["SmokeShell",1]]],
+	["<BACKPACK ITEMS >> ",[["CUP_1Rnd_StarCluster_Green_M203",2],["CUP_1Rnd_StarCluster_Red_M203",2],["CUP_1Rnd_SmokeYellow_M203",2],["CUP_1Rnd_SmokeRed_M203",2],["CUP_1Rnd_SmokeGreen_M203",2],["PRIMARY MAG",15],["CUP_HandGrenade_M67",5]]]
 ];
 
 kit_ger_fernspaher_ftl = [

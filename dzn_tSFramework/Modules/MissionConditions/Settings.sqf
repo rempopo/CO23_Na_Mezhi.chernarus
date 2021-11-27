@@ -50,7 +50,7 @@ tSF_MissionCondition_DefaultCheckTimer 			= 15;
 // Код условия может быть строкой или кодом в { }
 MissionCondition1 = [ 
  "WIN", { Berezenko inArea (baseTrg) }, 
- "All objectives done"
+ "Main objective done"
 ];
 
 MissionCondition2 = [ "WIPED", { call fnc_isAllDead }, "All dead", 30 ];
@@ -62,12 +62,12 @@ MissionCondition3 = [
 
 MissionCondition4 = [ 
  "TANKWIN", { Berezenko inArea (baseTrg) && T72b3 inArea baseTrg}, 
- "All objectives done"
+ "Berezenko and his tank saved"
  ];
  
 MissionCondition5 = [ 
  "SPOTTERWIN", { Berezenko inArea (baseTrg) && triggeractivated (Spottercheck)}, 
- "All objectives done"
+ "Berezenko is safe and spotters are history"
 ];
 
  MissionCondition6 = [ 
