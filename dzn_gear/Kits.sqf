@@ -242,15 +242,15 @@ kit_ger_fernspaher_ftl = [
 	["<BACKPACK ITEMS >> ",[["CUP_1Rnd_StarCluster_Green_M203",2],["CUP_1Rnd_StarCluster_Red_M203",2],["CUP_1Rnd_SmokeYellow_M203",2],["CUP_1Rnd_SmokeRed_M203",2],["CUP_1Rnd_SmokeGreen_M203",2],["PRIMARY MAG",15],["CUP_HandGrenade_M67",5]]]
 ];
 
-kit_ger_fernspaher_ftl = [
+kit_ger_fernspaher_mm = [
 	["<EQUIPEMENT >>  ","CUP_U_B_GER_Flecktarn_7","CUP_V_B_GER_Armatus_Fleck","CUP_B_GER_Pack_Flecktarn","CUP_H_Ger_Boonie_Flecktarn","CUP_G_Scarf_Face_White"],
-	["<PRIMARY WEAPON >>  ","hlc_rifle_hk33a2RIS_GL","hlc_30rnd_556x45_SOST_HK33",["CUP_muzzle_snds_SCAR_L","","optic_Yorris",""]],
+	["<PRIMARY WEAPON >>  ","hlc_rifle_psg1","hlc_20rnd_762x51_barrier_G3",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_MP7A2_folded","rhsusf_mag_40Rnd_46x30_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["CUP_20Rnd_46x30_MP7",5],["hlc_30rnd_556x45_b_HK33",5],["rhs_mag_m662_red",1],["rhs_mag_m713_Red",1]]],
-	["<BACKPACK ITEMS >> ",[["rhs_mag_m662_red",5],["rhs_mag_m713_Red",5],["1Rnd_SmokePurple_Grenade_shell",1],["1Rnd_SmokeOrange_Grenade_shell",1],["1Rnd_SmokeGreen_Grenade_shell",1],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_Smoke_Grenade_shell",1],["1Rnd_SmokeYellow_Grenade_shell",1],["1Rnd_HE_Grenade_shell",10]]]
+	["<VEST ITEMS >> ",[["CUP_20Rnd_46x30_MP7",5],["rhs_mag_m662_red",1],["rhs_mag_m713_Red",1],["PRIMARY MAG",4]]],
+	["<BACKPACK ITEMS >> ",[["rhs_mag_m662_red",5],["rhs_mag_m713_Red",5],["1Rnd_SmokePurple_Grenade_shell",1],["1Rnd_SmokeOrange_Grenade_shell",1],["1Rnd_SmokeGreen_Grenade_shell",1],["1Rnd_SmokeBlue_Grenade_shell",1],["1Rnd_Smoke_Grenade_shell",1],["1Rnd_SmokeYellow_Grenade_shell",1],["1Rnd_HE_Grenade_shell",10],["PRIMARY MAG",11]]]
 ];
 
 //Bunkerjager
