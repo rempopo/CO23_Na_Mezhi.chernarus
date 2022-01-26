@@ -31,6 +31,9 @@ GVAR(RuleList) = [
 	ROLE "Platoon Sergeant"			HAS [ALL_ALLOWED] PERMISSIONS,
 	ROLE "Командир взвода"			HAS [ALL_ALLOWED] PERMISSIONS,
 	ROLE "Зам. командира взвода"	HAS [ALL_ALLOWED] PERMISSIONS,
+	ROLE "Свояк-1 Командир відділення@Свояк-1"	HAS [ALL_ALLOWED] PERMISSIONS,
+	ROLE "Свояк-2 Командир відділення@Свояк-2"	HAS [ALL_ALLOWED] PERMISSIONS,
+	ROLE "Гвардыі капітан Березенко@Рыдлёўка-4"	HAS [ALL_ALLOWED] PERMISSIONS,
 	
 	ROLE "ПАН"	HAS [ALL_ALLOWED] PERMISSIONS,
 	ROLE "JTAC"	HAS [ALL_ALLOWED] PERMISSIONS,

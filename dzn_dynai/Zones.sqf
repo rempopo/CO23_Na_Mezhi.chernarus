@@ -4,7 +4,7 @@
 	/* Groups: */
 	,[
 		[
-			1, /* Groups quantity */
+			2, /* Groups quantity */
 			/* Units */
 			[
 				["B_Soldier_F", [], "kit_ger_fjb_12_sl "]
@@ -15,7 +15,7 @@
 			]
 		]
 		,[
-			1, /* Groups quantity */
+			2, /* Groups quantity */
 			/* Units */
 			[
 				["B_Soldier_F", [], "kit_ger_fjb_12_ftl"]
@@ -34,7 +34,7 @@
 	/* Groups: */
 	,[
 		[
-			1, /* Groups quantity */
+			2, /* Groups quantity */
 			/* Units */
 			[
 				["B_Soldier_F", [], "kit_ger_fjb_12_sl "]
@@ -45,7 +45,7 @@
 			]
 		]
 		,[
-			1, /* Groups quantity */
+			2, /* Groups quantity */
 			/* Units */
 			[
 				["B_Soldier_F", [], "kit_ger_fjb_12_ftl"]
@@ -64,7 +64,7 @@
 	/* Groups: */
 	,[
 		[
-			1, /* Groups quantity */
+			2, /* Groups quantity */
 			/* Units */
 			[
 				["B_Soldier_F", [], "kit_ger_fjb_12_sl "]
@@ -75,7 +75,7 @@
 			]
 		]
 		,[
-			1, /* Groups quantity */
+			2, /* Groups quantity */
 			/* Units */
 			[
 				["B_Soldier_F", [], "kit_ger_fjb_12_ftl"]

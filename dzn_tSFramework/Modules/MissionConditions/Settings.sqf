@@ -55,22 +55,3 @@ MissionCondition1 = [
 
 MissionCondition2 = [ "WIPED", { call fnc_isAllDead }, "All dead", 30 ];
 
-MissionCondition3 = [ 
- "LOSE", { !alive Berezenko }, 
- "Berezenko dead"
-];
-
-MissionCondition4 = [ 
- "TANKWIN", { Berezenko inArea (baseTrg) && T72b3 inArea baseTrg}, 
- "Berezenko and his tank saved"
- ];
- 
-MissionCondition5 = [ 
- "SPOTTERWIN", { Berezenko inArea (baseTrg) && triggeractivated (Spottercheck)}, 
- "Berezenko is safe and spotters are history"
-];
-
- MissionCondition6 = [ 
- "SPOTTERTANKWIN", { Berezenko inArea (baseTrg) && T72b3 inArea (baseTrg) && triggeractivated (Spottercheck)}, 
- "All objectives done"
-];

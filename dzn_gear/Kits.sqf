@@ -96,8 +96,8 @@ kit_ukr_mech_sl = [
 	["<PRIMARY WEAPON >>  ","CUP_arifle_AKS74_top_rail","CUP_30Rnd_545x39_AK74M_camo_M",["rhs_acc_dtk1983","","rhs_acc_rakursPM",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","","",["","","",""]],
-	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
-	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS_L]],
 	["<VEST ITEMS >> ",[["rhs_mag_rgo",2]]],
 	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_RGD5",2]]]
 ];
@@ -266,3 +266,11 @@ kit_ger_Bunkerjager_r = [
 	["<BACKPACK ITEMS >> ",[["rhs_mag_M441_HE",5],["CUP_30Rnd_TE1_Green_Tracer_556x45_G36_wdl",15]]]
 ];
 
+//Cargo
+
+cargo_kit_bmp_2 = [
+	[["rhs_weap_ak74m",4],["rhs_weap_rpg26",2],["rhs_weap_rpg7",1],["FirstAidKit",10],["Medikit",1],["CUP_launch_RPG7V",1]],
+	[["rhs_30Rnd_545x39_7N10_AK",30],["rhs_mag_rdg2_white",2],["rhs_mag_rgd5",9],["rhs_VOG25",20],["rhs_VG40OP_white",5],["rhs_GRD40_White",5],["rhs_rpg26_mag",2],["rhs_rpg7_OG7V_mag",2],["hlc_45Rnd_545x39_EP_rpkm",10],["rhs_mag_rgo",3],["CUP_PG7VR_M",2],["rhs_rpg7_PG7V_mag",4],["CUP_PG7V_M",1],["rhs_mag_rdg2_black",2]],
+	[["ToolKit",1]],
+	[["rhs_sidor",7],["rhs_rpg",1]]
+];
